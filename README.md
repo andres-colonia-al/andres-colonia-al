@@ -26,7 +26,9 @@
 
 ## 🚀 **Proyectos Destacados**  
 🔹 [📌 Sistema de Gestión de Gift Cards y API REST para Autenticación](https://github.com/andres-colonia-al/proyecto-monolitico) - **Spring Boot + JWT + Spring Security + PostgreSQL**  
-🔹 [📌 Sistema de compras para supermercado](https://github.com/andres-colonia-al/market-spring) - **Spring Boot + Spring JPA + ApiREST + DTO + mySQL**   
+🔹 [📌 Sistema de compras para supermercado](https://github.com/andres-colonia-al/market-spring) - **Spring Boot + Spring JPA + ApiREST + DTO + mySQL** 
+
+🔹 [📌 Sistema de Gestión para pizzería](https://github.com/andres-colonia-al/pizzeria) - **Spring Boot + Spring JPA + ApiREST + DTO + mySQL**   
 
 ---
 
